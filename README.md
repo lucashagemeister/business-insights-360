@@ -1,1 +1,1 @@
-# business-360
+# business-insights-360
